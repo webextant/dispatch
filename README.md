@@ -1,5 +1,5 @@
 <br>
-<img src="http://www.webextant.com/img/webextant_logo_white.png" style="filter:invert(1)" width="200">
+<img src="http://www.webextant.com/img/webextant_logo_white.png" width="200">
 
 # Webextant | Dispatch
 
